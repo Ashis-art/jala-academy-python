@@ -1,5 +1,4 @@
 # Different ways creating a string.
-
 string = 'Hello'
 print(string)
 
@@ -9,8 +8,9 @@ print(string)
 string1 = '''World'''
 print(string1)
 
+# triple quotes string can extend multiple lines
 string2 = """Welcome to
-           the world of Python""" # triple quotes string can extend multiple lines
+           the world of Python"""
 print(string2)
 print()
 
